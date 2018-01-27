@@ -1,0 +1,44 @@
+/*Start Media QUERY*/
+
+/*Mobile screen*/
+
+@media(max-width:767px)
+{
+    .navbar-nav > li > a
+    {
+        padding-top: 6px;
+        padding-bottom: 6px;
+    }
+    .subscribe .form-control
+    {
+        margin: 20px auto;
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse 
+    {
+        max-height: none;
+    }
+    .about h1
+    {
+        font-size: 32px;
+    }
+}
+
+/*Small screen*/
+@media(min-width:768px)and(max-width:991px)
+{
+    
+}
+
+/*Medium screen*/
+@media(min-width:992x)and(max-width:1199px)
+{
+    
+}
+
+/*Large screen*/
+@media(min-width:1200px)
+{
+    
+}
+/*End Media QUERY*/
