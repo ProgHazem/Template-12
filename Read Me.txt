@@ -1,0 +1,27 @@
+******************************************************************
+========== Simple Site for My Site ==============
+
+Template 12
+
+==> use HTML.
+
+==> use CSS3.
+
+==> use Animate.css
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use Jquery Nicescroll
+
+==> use WOW Library
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
